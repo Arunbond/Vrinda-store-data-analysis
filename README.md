@@ -2,19 +2,19 @@
 Excel project -Data and Files
 
 
-#PROBLEM STATEMENT
+PROBLEM STATEMENT
 
-#1 Order channel 
+1 Order channel 
 
-#2 Age vs gender
+2 Age vs gender
 
-#3 State
+3 State
 
-#4 Order status
+4 Order status
 
-#5 Men vs women
+5 Men vs women
 
-#6 Sales vs order
+6 Sales vs order
 
 
 
