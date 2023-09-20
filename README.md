@@ -1,7 +1,7 @@
 # Vrinda-store-data-analysis
 Excel project -Data and Files
-PROBLEM STATEMENT
-1 Order channel
+#PROBLEM STATEMENT
+1 Order channel    
 2 Age vs gender
 3 State
 4 Order status
